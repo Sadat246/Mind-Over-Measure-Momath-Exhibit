@@ -1,7 +1,3 @@
-# APCS Final Project
-THIS DOCUMENT IS REQUIRED
-## Group Name
-A Sad Ram Makes For A Weak Fight
 ## Group Members
 Sadat Ahmed and Ramisa Haque
 ## Group Info
